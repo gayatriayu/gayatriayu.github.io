@@ -20,7 +20,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'test',
+        name: 'test.',
         short_name: 'MadeAyuGayatri',
         start_url: '/',
         background_color: config.colors.darkNavy,
