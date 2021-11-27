@@ -1,5 +1,5 @@
 {
-  "name": "gayatri.github.io",
+  "name": "gayatriayu.github.io",
   "description": "Personal Website V4",
   "version": "1.0.0",
   "author": "Brittany Chiang <brittany.chiang@gmail.com>",
@@ -59,6 +59,7 @@
     "react-helmet": "^6.1.0",
     "react-transition-group": "^4.3.0",
     "scrollreveal": "^4.0.5",
+    "sharp": "^0.28.3",
     "styled-components": "^5.3.0"
   },
   "devDependencies": {
